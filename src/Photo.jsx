@@ -3,8 +3,8 @@ import HeadShot from './assets/headshot.jpg';
 
 function Photo() {
     return (
-        <div className="photo">
-            <img src={HeadShot} />
+        <div>
+            <img className="photo" src={HeadShot} />
         </div>
     )
 }
