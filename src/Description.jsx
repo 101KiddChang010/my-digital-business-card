@@ -8,9 +8,17 @@ function Description() {
                 <h3>Frontend Developer</h3>
                 <p>lauraSmith.website</p>
             </div>
-            <div>
-                <button></button>
-                <button></button>
+            <div className="button">
+                <form action="https://">
+                    <button href="" className="email">
+                        <i className="fa-solid fa-envelope"></i><span>Email</span>
+                    </button>
+                </form>
+                <form action="https://">
+                    <button href="" className="linkedin">
+                        <i className="fa-brands fa-linkedin"></i><span>LinkedIn</span>
+                    </button>
+                </form>
             </div>
             <div className="about">
                 <h2>About</h2>
