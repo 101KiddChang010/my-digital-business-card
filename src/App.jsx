@@ -8,10 +8,12 @@ import Footer from './Footer'
 function App() {
   return (
     <div className="App">
-        <div className="Card">
-          <Photo />
-          <Description />
-          <Contact />
+        <div className="card">
+          <div className="card-inner">
+            <Photo />
+            <Description />
+            <Contact />
+          </div>
         </div>
         <footer>
           <Footer />
