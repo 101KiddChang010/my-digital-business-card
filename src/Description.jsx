@@ -9,12 +9,12 @@ function Description() {
                 <p>lauraSmith.website</p>
             </div>
             <div className="button">
-                <form action="https://">
+                <form action="">
                     <button href="" className="email">
                         <i className="fa-solid fa-envelope"></i><span>Email</span>
                     </button>
                 </form>
-                <form action="https://">
+                <form action="">
                     <button href="" className="linkedin">
                         <i className="fa-brands fa-linkedin"></i><span>LinkedIn</span>
                     </button>
