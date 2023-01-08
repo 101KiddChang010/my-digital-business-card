@@ -36,14 +36,14 @@
 <h3 align="center">My Digital Business Card</h3>
 
   <p align="center">
-    This is a static website that showcases a short portfolio of someone as a         sample.
+    This is a static website that showcases a short portfolio of someone as a sample.
     <br />
     <a href="https://github.com/101KiddChang010/my-digital-business-card"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://101kiddchang010.github.io/my-digital-business-card/">View Demo</a>
     ·
-    <a href="https://github.com/101KiddChang010/forecast-appmy-digital-business-card
+    <a href="https://github.com/101KiddChang010/my-digital-business-card">Report Bug</a>
     ·
     <a href="https://github.com/101KiddChang010/my-digital-business-card/pulls">Request Feature</a>
   </p>
