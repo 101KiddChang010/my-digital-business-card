@@ -11,12 +11,12 @@ function Description() {
             <div className="button">
                 <form action="">
                     <button href="" className="email">
-                        <i className="fa-solid fa-envelope"></i><span>Email</span>
+                        <i className="fa-solid fa-envelope" style={{ color: "black" }}></i><span style={{ color: "black" }}>Email</span>
                     </button>
                 </form>
                 <form action="">
                     <button href="" className="linkedin">
-                        <i className="fa-brands fa-linkedin"></i><span>LinkedIn</span>
+                        <i className="fa-brands fa-linkedin" style={{ color: "black" }}></i><span style={{color: "black"}}>LinkedIn</span>
                     </button>
                 </form>
             </div>
